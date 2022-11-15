@@ -1,4 +1,5 @@
-#garlicbreadcomposer#
+#garlicbreadcomposer
+
 **CRASH!** I am a broken random name generator that could only generate 10 names per day...the names include names of vegetables, fruits, and other assortment of grocery items mixed up together. 
 I am created in Winter 2002, when groceries options were scarce.
 To use the software, please enter a password sandwich (the word "lettuce" not accepted)
